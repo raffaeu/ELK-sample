@@ -17,6 +17,8 @@ The installation is then split in two phases:
 1. Install one or more servers where Elastic Search and Kibana will be hosted
 2. Installa various Agents on the destination servers, such as beats and pipes
 
+![.NET Core](https://github.com/raffaeu/ELK-sample/workflows/.NET%20Core/badge.svg)
+
 ## Installation Process (Servers)
 
 ### 01. Install Elastic Search
